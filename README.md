@@ -1,79 +1,101 @@
-## Hi, I'm Jaswanth — Cloud & Generative AI Developer
+# Hi, I'm Jaswanth — Cloud & Generative AI Developer  
+### Specializing in AI Systems, Serverless Architectures, and AWS Solution Architecture
 
-I specialize in building **AI-powered applications** and **cloud-native systems** using AWS.  
-My work focuses on **Generative AI**, **RAG pipelines**, **AI assistants**, and **serverless automation** using Amazon Bedrock, Lambda, OpenSearch, DynamoDB, and other AWS services.
-
----
-
-## What I Do
-- Build **RAG-based knowledge assistants** using Amazon Bedrock, Embeddings, and OpenSearch Serverless  
-- Develop **serverless AI agents** using Bedrock Agents + Action Groups + Lambda  
-- Design **real-time automation workflows** (email tasks, data retrieval, AI-driven actions)  
-- Create **cloud-native architectures** using VPC, S3, DynamoDB, IAM, and Lambda  
-- Build NLP and text-processing pipelines using **SageMaker, Textract, Comprehend, Translate, and Transcribe**  
-- Develop secure, scalable backend systems using IAM, networking, and serverless patterns  
+I design and build **scalable, secure, and high-performance cloud architectures** using AWS.  
+My experience spans Generative AI, RAG systems, serverless automation, VPC networking, and distributed system design-skills directly aligned with AWS **Solution Architect** roles.
 
 ---
 
-## What I’m Learning / Improving
-- Advanced **Retrieval-Augmented Generation (RAG)**  
-- Vector stores & embedding optimization with **OpenSearch Serverless**  
-- Fine-tuning LLMs for enterprise use cases  
-- Agentic AI workflows using **Amazon Bedrock Agents**  
-- Multi-VPC networking, IAM boundaries, and service-to-service security  
-- Scalable, event-driven architectures using Lambda, SQS, DynamoDB Streams  
+##  What I Do
+- Architect **production-ready RAG systems** using OpenSearch Serverless, Bedrock Embeddings, and S3  
+- Build **end-to-end AI platforms** with Bedrock Agents, Lambda, API Gateway, and DynamoDB  
+- Design **scalable, serverless backend architectures** using event-driven patterns  
+- Architect **multi-tier VPC networks**, route tables, ALBs, NACLs, and private/public subnets  
+- Implement **security-centered designs** using IAM boundaries, roles, KMS encryption, and least-privilege access  
+- Optimize costs through **serverless-first**, on-demand scaling, S3 storage tiers, and intelligent workload placement  
 
 ---
 
-## Technologies I Use
-**AI & ML:**  
-Amazon Bedrock (Agents, Knowledge Bases, Embeddings), SageMaker, Textract, Comprehend, Translate, Polly, Transcribe  
-
-**Cloud:**  
-AWS Lambda, DynamoDB, S3, EC2, VPC, IAM, CloudWatch, SES, SNS, RDS  
-
-**Architecture:**  
-Serverless systems, VPC peering, high availability, secure IAM design, well-architected cloud patterns  
-
-**Languages & Tools:**  
-Python, Boto3, JSON, GitHub, Linux/CLI, CloudFormation  
+##  Solution Architecture Skills
+- Designing **high availability (HA)** and **fault-tolerant** architectures  
+- Implementing **multi-VPC, multi-account** architectures using VPC peering and IAM separation  
+- Applying the **AWS Well-Architected Framework** across all five pillars  
+- Building **resilient API architectures** using Lambda, API Gateway, and DynamoDB  
+- Designing **distributed caching** and edge delivery using CloudFront  
+- Enforcing **network isolation** with security groups and network ACLs  
+- Designing **end-to-end data pipelines** using S3 → Lambda → DynamoDB → Bedrock → SES  
+- Ensuring scalable deployments using CloudFormation and IaC patterns  
 
 ---
 
-## What I Have Learned (From Projects + Resume)
+##  What I’m Learning & Improving (Architect Focus)
+- Advanced system design for **large-scale AI workloads**  
+- **VPC Lattice**, PrivateLink, and cross-account communication  
+- High-performance vector databases and **retrieval optimization**  
+- Architecting **zero-trust networks** and service-to-service authentication  
+- Enterprise-level **monitoring & observability** using CloudWatch, X-Ray, and logs  
+- Bedrock Agents with **complex action groups and multi-step reasoning**  
+
+---
+
+##  Technologies I Work With
+
+### AI & ML
+Bedrock (Agents, Knowledge Bases, Embeddings), SageMaker, Textract, Comprehend, Translate, Transcribe, Polly
+
+### Cloud & Serverless
+Lambda, DynamoDB, S3, EC2, VPC, RDS, IAM, CloudWatch, EventBridge, API Gateway, CloudFront, SNS, SES
+
+### Architecture Domains
+- High Availability & Fault Tolerance  
+- Serverless Architectures  
+- VPC Design & Networking  
+- Cost Optimization  
+- Data Engineering & Retrieval  
+- Security Engineering  
+- Multi-Region Designs  
+
+### Languages & Tools
+Python, Boto3, JSON, GitHub, Linux/CLI, CloudFormation, IaC patterns
+
+---
+
+##  What I’ve Learned (From Real Projects)
 - How to build **enterprise-grade RAG systems** using OpenSearch Serverless  
 - How to design **vector-based semantic search** for unstructured data  
-- How to build **AI agents that perform real actions** (send email, update records, retrieve knowledge)  
-- How to build **multi-service automation pipelines** using Lambda, SES, S3  
-- How to integrate **NLP, OCR, translation, sentiment analysis, TTS/STT**  
-- How to design secure cloud networking with **VPC peering, route tables, and SGs**  
-- How to apply AWS Well-Architected best practices to real workloads  
+- How to architect **AI agents** that perform real actions (email, data retrieval, workflow automation)  
+- How to build **event-driven pipelines** with Lambda, SES, S3, EventBridge  
+- How to integrate OCR, NLP, translation, sentiment analysis, and speech AI  
+- How to design **secure networking** using route tables, subnets, SGs, and ACLs  
+- How to implement **scalable and secure architectures** that follow AWS best practices  
 
 ---
 
-## How My Skills Help Tech Companies
-### - Build smarter customer experiences  
-AI agents that retrieve information, personalize results, automate tasks, and respond instantly.
+##  How My Skills Help Tech Companies (Architect Value)
 
-### - Reduce operational workload  
-Serverless automation eliminates manual processes and reduces maintenance costs.
+### Architect Better AI & Cloud Systems  
+I build systems that are secure, scalable, cost-efficient, observable, and production-ready.
 
-### - Production-ready cloud systems  
-Secure IAM roles, proper VPC design, scalable Lambda workloads, and well-architected patterns.
+### Reduce Infrastructure & Operational Load  
+Event-driven architectures minimize overhead, improve resiliency, and remove manual processes.
 
-### - AI that integrates into real products  
-Using RAG, embeddings, and agent actions, I can build assistants for:
-- Food apps  
-- E-commerce  
-- Support chatbots  
-- Knowledge retrieval systems  
-- Workflow automation platforms  
+### Accelerate AI Adoption  
+I integrate RAG pipelines, embeddings, and AI agent workflows into real products.
 
-### - Strong end-to-end engineering  
-From cloud infrastructure → data retrieval → AI → email automation → monitoring.
+### Deliver Enterprise-Grade Reliability  
+Designing architectures with:
+- Isolated VPCs  
+- PrivateLink communication  
+- IAM identity boundaries  
+- Multi-AZ redundancy  
+- Monitoring and logging  
+- Edge delivery caching  
+
+### Full Ownership of Solutions  
+From architecture → implementation → testing → deployment → monitoring.
 
 ---
 
 ##  My Goal
-To build **intelligent, scalable, real-world AI systems** that help companies integrate LLMs, RAG, and serverless automation into production applications.
+To become a **Cloud & Generative AI Solutions Architect**, building intelligent, scalable systems that help companies adopt LLMs, RAG, serverless, and secure cloud-native architectures.
 
