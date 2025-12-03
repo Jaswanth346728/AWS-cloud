@@ -5,13 +5,7 @@ This project demonstrates how developers can use GenAI to accelerate Infrastruct
 
 ---
 
-##  Project Documentation
 
-The complete step-by-step implementation—including architecture, commands, and screenshots—is available in the PDF:
-
-**[Cloud-Infrastructure-with-Generative-AI.pdf](./Cloud-Infrastructure-with-Generative-AI.pdf)**
-
----
 
 ##  What This Project Demonstrates
 
